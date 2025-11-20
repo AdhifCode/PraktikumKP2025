@@ -1,15 +1,15 @@
 <h1 align="center">Praktikum Konsep Pemrograman - S1 Informatika UN</h1>
 <p align="center" ><img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="300" height="300"/></p>
-<h3 align="center"> Tahun Ajaran 2023/2024 Semester Ganjil </h3>
+<h3 align="center"> Tahun Ajaran 2025/2026 Semester Ganjil </h3>
 <h3 align ="center">  >> <a align = "center" href = "Daftar Materi.md"> <span align="center">Klik Disini untuk membuka materi praktikum</span></a> << </h3>
 
 <br>
 <p align="right"> <h3>Tim Asisten Dosen :</h3> 
   </p>
 
-- Addin Hadi Rizal (IF 2022) [Github](https://github.com/AddinRizal)
+- Nadhifal Azharuddiya Atmaja (IF 2024) [Github](https://github.com/AdhifCode)
 
-- Abraham Willem Hersubagyo (IF 2022) [Github](https://github.com/AbrahamWillemH)
+- Aqila Ramdan Fuad Latief (IF 2024) [Github](https://github.com/Fuady-latief)
 
 
 <br>
